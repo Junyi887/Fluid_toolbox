@@ -1,0 +1,16 @@
+re: 6000
+iprec : 'double'
+dt: 0.0005 # time step dt
+nd: 2048
+ns: 800 # 800
+nt: 8000 # 8000
+ic_folder: w # folder name if we need to start from initial condition
+n_dns: 2048
+ic_num_snapshot: 0 # time step from which to assign initial condition
+ifm: 0 # 0: DNS
+ipr: 4 #
+isolver: 1
+istart: 0
+kappa: 2
+pCU3: 0.0
+seed_number: 40
