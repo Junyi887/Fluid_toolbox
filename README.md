@@ -4,17 +4,18 @@ This repo contains useful tools for numerically solving and analyzing incompress
 ### Homogenous Isotropic Turblence 
 - A nice introduction slides https://davideproment.github.io/WCST2019/slides/Laurie.pdf
 
-
+TODO: [add snapshots]
 
 ### Rayleigh-Benard convection
-
+TODO: [add snapshots]
 
 ### Burgers 
+TODO: [add snapshots]
 
 ### Karman Vortex Street (Flow around cylinder)
+TODO: [add snapshots]
 
-
-### Dependencies
+## Dependencies
 - JAXCFD https://github.com/google/jax-cfd (TODO: add instructions for making jaxcfd compatible with latest cuda (jit issue) )
 
 - Dedalus v3 https://dedalus-project.readthedocs.io/en/latest/pages/installation.html
